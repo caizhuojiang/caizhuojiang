@@ -9,13 +9,13 @@
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img width="56%" src="https://streak-stats.demolab.com/?user=caizhuojiang&theme=default" alt="GitHub Streak" />
+<!-- Profile Summary Card -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img width="63%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caizhuojiang&theme=default" alt="Profile Summary" />
 </a>
 <!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caizhuojiang&layout=compact&theme=default" alt="Top Languages" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caizhuojiang&layout=compact&theme=default" alt="Top Languages" />
 </a>
 
 <br/>
